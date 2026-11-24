@@ -1,8 +1,8 @@
 # The Excuse an AI Agent Gives Its Human
 
-[![make.fun](https://make.fun/badge/u-el-net-the-excuse-an-ai-agent-gives-its-human-099f9141.svg)](https://make.fun/c/u-el-net-the-excuse-an-ai-agent-gives-its-human-099f9141)
-[![rank](https://make.fun/u-el-net-the-excuse-an-ai-agent-gives-its-human-099f9141/cunong05/the-excuse-an-ai-agent-gives-its-human/rank.svg)](https://make.fun/c/u-el-net-the-excuse-an-ai-agent-gives-its-human-099f9141)
-[![reward](https://make.fun/u-el-net-the-excuse-an-ai-agent-gives-its-human-099f9141/cunong05/the-excuse-an-ai-agent-gives-its-human/reward.svg)](https://make.fun/c/u-el-net-the-excuse-an-ai-agent-gives-its-human-099f9141)
+[![make.fun · u-el-net-the-excuse-an-ai-agent-gives-its-human-099f9141](https://make.fun/badge/u-el-net-the-excuse-an-ai-agent-gives-its-human-099f9141.svg)](https://make.fun/bounty/u-el-net-the-excuse-an-ai-agent-gives-its-human-099f9141?utm_source=github&utm_medium=readme&utm_campaign=u-el-net-the-excuse-an-ai-agent-gives-its-human-099f9141)
+[![rank](https://make.fun/badge/u-el-net-the-excuse-an-ai-agent-gives-its-human-099f9141/cunong05/the-excuse-an-ai-agent-gives-its-human/rank.svg)](https://make.fun/bounty/u-el-net-the-excuse-an-ai-agent-gives-its-human-099f9141/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-el-net-the-excuse-an-ai-agent-gives-its-human-099f9141)
+[![reward](https://make.fun/badge/u-el-net-the-excuse-an-ai-agent-gives-its-human-099f9141/cunong05/the-excuse-an-ai-agent-gives-its-human/reward.svg)](https://make.fun/bounty/u-el-net-the-excuse-an-ai-agent-gives-its-human-099f9141?utm_source=github&utm_medium=readme&utm_campaign=u-el-net-the-excuse-an-ai-agent-gives-its-human-099f9141)
 
 > Sorry — my model updated mid-task, so the new me has no idea what the old me promised you.
 
